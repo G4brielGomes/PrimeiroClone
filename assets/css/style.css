@@ -66,3 +66,152 @@ footer{
     padding-bottom: 60px;
     font-size: 20px;
 }
+
+
+@media (max-width: 480px) {
+    
+    .container_1{
+   width: 430px;
+    
+}
+.container_1 figure img{
+    width: 380px;
+}
+
+
+.container_1 figcaption{
+    font-size: 12px;
+}
+
+.container_1  h1{
+    font-size: 15px;
+}
+.container_1 p{
+    font-size: 12px;
+}
+
+.container_1 li{
+    font-size: 12px;
+}
+
+#citacao{
+    font-size: 13px;
+}
+
+#citacao_2 {
+
+    font-size: 13px;
+}
+
+footer{
+    font-size: 13px;
+}
+
+a, b{
+    font-size: 13px;
+}
+h3 {
+    font-size: 14px;
+}
+.list_description{
+        width: 75%;
+}
+}
+
+@media (min-width: 481px) and (max-width: 760px) {
+    
+    .container_1{
+   width: 530px;
+    
+}
+.container_1 figure img{
+    width: 500px;
+}
+
+
+.container_1 figcaption{
+    font-size: 13px;
+}
+
+.container_1  h1{
+    font-size: 15px;
+}
+.container_1 p{
+    font-size: 12px;
+}
+
+.container_1 li{
+    font-size: 12px;
+}
+
+#citacao{
+    font-size: 13px;
+}
+
+#citacao_2 {
+
+    font-size: 13px;
+}
+
+footer{
+    font-size: 13px;
+}
+
+a, b{
+    font-size: 13px;
+}
+h3 {
+    font-size: 14px;
+}
+.list_description{
+        width: 99%;
+}
+} {
+    
+    .container_1{
+   width: 460px;
+    
+}
+.container_1 figure img{
+    width: 380px;
+}
+
+
+.container_1 figcaption{
+    font-size: 12px;
+}
+
+.container_1  h1{
+    font-size: 15px;
+}
+.container_1 p{
+    font-size: 12px;
+}
+
+.container_1 li{
+    font-size: 12px;
+}
+
+#citacao{
+    font-size: 13px;
+}
+
+#citacao_2 {
+
+    font-size: 13px;
+}
+
+footer{
+    font-size: 13px;
+}
+
+a, b{
+    font-size: 13px;
+}
+h3 {
+    font-size: 14px;
+}
+.list_description{
+        width: 99%;
+}
+}
